@@ -26,7 +26,7 @@
 ## ⚙️ **התקנה ושימוש**  
 
 📥 **הורדה**  
-יש להוריד את הקובץ `Unit5.dll` מ-📂 [Repository](https://github.com/MichoWorks/Unit5).  
+יש להוריד את הקובץ `Unit5.dll` מ-📂 [Repository](https://github.com/MichoWorks/Unit5/releases/tag/1.0.0).  
 
 🔧 **הוספת הפניה לפרויקט**  
 הוסף את הקובץ כ-**Reference** בפרויקט שלך ב-Visual Studio או בכל סביבת פיתוח.  
