@@ -50,13 +50,7 @@ class Program
 }
 ```
 
----
 
-## 📌 **קרדיט**  
-**Unit5** פותחה על ידי **MichoWorks** 🛠️  
-🔗 [GitHub - Unit5](https://github.com/MichoWorks/Unit5)  
-
----
 
 ## ⚠️ **תנאי שימוש**  
 ❌ **אין להעתיק או לשכפל את הקוד ללא אישור מפורש**.  
